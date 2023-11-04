@@ -1,5 +1,7 @@
 ### Chikitabot
 
+
+aktif discord botu
  [Chikitabot](https://chikitabot.net)
  [Chikitabot türkçe](https://chikitabot.net/tr)
 
