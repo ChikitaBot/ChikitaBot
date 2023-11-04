@@ -1,4 +1,7 @@
-### Hi there 👋
+### Chikitabot
+
+ [Chikitabot](https://chikitabot.net)
+ [Chikitabot türkçe](https://chikitabot.net/tr)
 
 <!--
 **ChikitaBot/ChikitaBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
